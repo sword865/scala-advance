@@ -1,4 +1,4 @@
-package com.advance.fps.raw
+package com.advance.fps.intro
 
 trait Printable[A] {
   def format(value: A): String
